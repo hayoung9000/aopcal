@@ -9,7 +9,7 @@
 	
 	<bean id="exeTimeAspect" class="kr.hs.emirim.hayoung9000.aopcal.aspect.ExeTimeAspect2" />
 
-	<bean id="impeCal" class="kr.hs.emirim.hayoung9000.aopcal.cal.ImpCalculator">
+	<bean id="impCal" class="kr.hs.emirim.hayoung9000.aopcal.cal.ImpCalculator">
 	</bean>
 
 	<bean id="recCal" class="kr.hs.emirim.hayoung9000.aopcal.cal.RecCalculator">

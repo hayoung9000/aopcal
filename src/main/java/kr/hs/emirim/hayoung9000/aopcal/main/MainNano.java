@@ -1,8 +1,8 @@
-package ks.hs.emirim.hayoung9000.aopcal.main;
+package kr.hs.emirim.hayoung9000.aopcal.main;
 
-import ks.hs.emirim.hayoung9000.aopcal.cal.Calculator;
-import ks.hs.emirim.hayoung9000.aopcal.cal.ImpCalculator;
-import ks.hs.emirim.hayoung9000.aopcal.cal.RecCalculator;
+import kr.hs.emirim.hayoung9000.aopcal.cal.Calculator;
+import kr.hs.emirim.hayoung9000.aopcal.cal.ImpCalculator;
+import kr.hs.emirim.hayoung9000.aopcal.cal.RecCalculator;
 
 public class MainNano {
 

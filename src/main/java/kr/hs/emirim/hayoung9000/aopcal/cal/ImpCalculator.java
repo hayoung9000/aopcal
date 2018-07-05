@@ -1,4 +1,4 @@
-package ks.hs.emirim.hayoung9000.aopcal.cal;
+package kr.hs.emirim.hayoung9000.aopcal.cal;
 
 public class ImpCalculator implements Calculator {
 

@@ -1,4 +1,4 @@
-package ks.hs.emirim.hayoung9000.aopcal.cal;
+package kr.hs.emirim.hayoung9000.aopcal.cal;
 
 public class ExeTimeCalculator implements Calculator{ //시간을 측정을 담당
 	private Calculator delegate; //실제 팩토리 계산을 담당
